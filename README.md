@@ -10,7 +10,7 @@
 >           318—昕城—西安
 ## 环境
 - GitHub 协作分支：[GC4WP/common at shakespere](https://github.com/GC4WP/common/tree/shakespere)
-    ![](http://olvs25obh.bkt.clouddn.com/2017-12-02-074114.png)
+   - 不知道怎么进，参考 [common/Hbofbranch.md at shakespere · GC4WP/common](https://github.com/GC4WP/common/blob/shakespere/Handbook/Hbofbranch.md)
 - 小组专辑：待补充 @CC  
 - 作业发布: [好中文的样子 - 专题 - 简书](http://www.jianshu.com/c/6c9915be5f2c)
 - 团队指派 ：@GC4WP/shakespere
@@ -51,9 +51,13 @@
 ### 1. 会议
 ~ 每次参加会议，轮流记录会议纪要，参见[WorkSmarter](http://www.yangzhiping.com/files/worksmarter.pdf)；你必须掌握的是
 >title
+>
 >abstract
+>
 >info
+>
 >Action; ~ 组长特别提示，每一次分配任务要指向谁；责任到人；
+>
 >question
 
 ps: 第一次我来示范；
@@ -71,7 +75,7 @@ ps: 第一次我来示范；
 - [重拾珍珠：好中文“和合计”回顾及花絮](http://www.jianshu.com/p/64dabd780fa5)
 - ...
 
-
+## changelog
 - 171202 其林 创建
 
 
