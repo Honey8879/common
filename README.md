@@ -8,12 +8,16 @@
 >           141-香雪白梅-广州 
 >           234-其林~北京
 >           318—昕城—西安
+
 ## 环境
+~ 为什么使用GitHub，以及其他，请看猛犸君的 https://github.com/GC4WP/Mr_X_MD/issues/1
+
 - GitHub 协作分支：[GC4WP/common at shakespere](https://github.com/GC4WP/common/tree/shakespere)
    - 不知道怎么进，参考 [common/Hbofbranch.md at shakespere · GC4WP/common](https://github.com/GC4WP/common/blob/shakespere/Handbook/Hbofbranch.md)
 - 小组专辑：待补充 @CC  
 - 作业发布: [好中文的样子 - 专题 - 简书](http://www.jianshu.com/c/6c9915be5f2c)
 - 团队指派 ：@GC4WP/shakespere
+
 ## 命名
 ### 必须掌握的
 >作业编号
